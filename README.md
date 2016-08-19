@@ -35,7 +35,7 @@ index.html 入口文件
 		|
 		|———webpack.config.js      #基础配置
 		|
-		| ———webpack.config.prod.js #生产配置
+		|———webpack.config.prod.js #生产配置
 
 
 
